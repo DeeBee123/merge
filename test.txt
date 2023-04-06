@@ -2,10 +2,7 @@ Testas
 
 Detached
 
+Dar kazkas
 
 
-Detached2
-
-
-
-commit on main
+ir dar kazkas
